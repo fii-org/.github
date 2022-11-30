@@ -23,3 +23,4 @@ _describe changes here..._
 - [ ] Do we need to implement analytics?
 - [ ] The commit message follows [https://www.conventionalcommits.org/en/v1.0.0-beta.2/](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 - [ ] The PR title follows our format (`[type of change] (SC-XXX if ticket exists) - title`)
+- [ ] This PR is not associated with a Shortcut story
