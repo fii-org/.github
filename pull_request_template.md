@@ -15,6 +15,16 @@ _ticket number here..._
 
 _describe changes here..._
 
+## Other information:
+
+### Screenshots (if applicable)
+
+_you can add screnshots if this a UI change_
+
+### External dependencies (if applicable)
+
+_if this depends on external changes you can reference those here_
+
 ## Checklist before requesting a review
 
 - [ ] I have performed a self-review of my code
