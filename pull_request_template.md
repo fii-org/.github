@@ -7,7 +7,7 @@
 - [ ] Chore (adds tests, documentation, etc.)
 - [ ] Other (details: \_)
 
-## Shortcut ticket number and link
+## Ticket refererence
 
 _ticket number here..._
 
@@ -37,6 +37,6 @@ _if this depends on external changes you can reference those here_
 - [ ] Docs have been added/updated
 - [ ] Do we need to implement analytics?
 - [ ] The commit message follows [https://www.conventionalcommits.org/en/v1.0.0-beta.2/](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
-- [ ] The PR title follows our format (`[type of change] (SC-XXX if ticket exists) - title`)
-- [ ] This PR is not associated with a Shortcut story
+- [ ] The PR title follows our format (`[type of change] (XXXXX if ticket exists) - title`)
+- [ ] This PR is not associated with an Asana ticket
 - [ ] Changes have been included in the `changelog.md` file (in case it exists)
