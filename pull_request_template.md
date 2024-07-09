@@ -38,5 +38,5 @@ _if this depends on external changes you can reference those here_
 - [ ] Do we need to implement analytics?
 - [ ] The commit message follows [https://www.conventionalcommits.org/en/v1.0.0-beta.2/](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 - [ ] The PR title follows our format (`[type of change] (XXXXX if ticket exists) - title`)
-- [ ] This PR is not associated with a Asana ticket
+- [ ] This PR is not associated with an Asana ticket
 - [ ] Changes have been included in the `changelog.md` file (in case it exists)
